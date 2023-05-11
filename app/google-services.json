@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148067993978",
+    "project_id": "digimind-722a0",
+    "storage_bucket": "digimind-722a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148067993978:android:89bec52c61d33fd87faec3",
+        "android_client_info": {
+          "package_name": "lopez.marco.mydigimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148067993978-pnd00vg4p0guoblnpt6q69php0h17173.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtkusKWdbzKued1UprAelMRpOZjCfrXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148067993978-pnd00vg4p0guoblnpt6q69php0h17173.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
